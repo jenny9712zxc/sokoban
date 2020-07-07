@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/box.png</file>
+        <file>res/floor.jpg</file>
+        <file>res/hole.jpg</file>
+        <file>res/player.jpg</file>
+        <file>res/wall.jpg</file>
+    </qresource>
+</RCC>
